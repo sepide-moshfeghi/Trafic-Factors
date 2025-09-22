@@ -1,4 +1,4 @@
-# NYC Trafic Volume Analysis
+# NYC Traffic Volume Analysis
 
 This project analyzes traffic volume in New York City using various factors such as date, weather, and holidays. It demonstrates end-to-end data handling: from collection and cleaning to visualization tailored for stakeholders.
 
